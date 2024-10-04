@@ -3,10 +3,10 @@
 - Implemented using the pygame library.
 - Once the game ends, the user has the option to quit or play again.
 
-# Requirements
+## Requirements
 - Python 3.x installed on your machine.
 
-# How to Run
+## How to Run
 1. Download the `snake.py` file.
 2. Open a terminal (or command prompt).
 3. Navigate to the directory where the `snake.py` file is located.
