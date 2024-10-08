@@ -3,7 +3,6 @@ https://drive.google.com/file/d/1-M7syi1hA7ubT9JopsghWSBrO8pv_6U9/view?usp=drive
 
 ## Note - When downloading, you may see: 
 - Google Drive can't scan this file for viruses. This file is executable and may harm your computer.
-## What you should do:
 - Don't worry. Google Drive does this for all .exe files.
 - snake.exe is completely safe to download so click download anyway.
 
